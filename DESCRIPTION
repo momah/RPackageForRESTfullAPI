@@ -1,0 +1,30 @@
+Package: RestAPIAccess
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+
+000000000000000000000000000
+Package: ResAPIAccess
+Type: Package
+Date: 2017-09-07
+Title: API Rest R Package data access
+Version: 0.1.0
+Author: Mahrach Mahrach. Mohammed <mmahrach@outlook.com>
+Maintainer: Mahrach Mahrach. Mohammed <mmahrach@outlook.com>
+Description: Package Acceder a datos de una red social mediante una API Rest.
+Imports:
+    dplyr,
+    magrittr,
+    jsonlite,
+    curl,
+    RCurl
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
